@@ -1,0 +1,7 @@
+Flask==2.0.3
+# Yahan par voice cloning ke liye zaruri libraries add karein, jaise:
+# numpy
+# scipy
+# librosa
+# torch
+# aur jo bhi dependencies aapke model ke liye required ho
